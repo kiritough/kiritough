@@ -17,4 +17,3 @@ Build real projects, learn by doing, and share progress publicly.
 
 ## Links
 - Reddit: u/kiritough
-- X: @UghKirito
